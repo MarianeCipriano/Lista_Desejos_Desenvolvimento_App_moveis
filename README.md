@@ -1,0 +1,2 @@
+# Lista_Desejos_Desenvolvimento_App_moveis
+ An application was created during the mobile device development discipline. The application has a list of desired products. The application contains the options to enter wishes, list wishes, detail wishes, change and delete wishes, as well as the option to consult the desired item in Buscapé. For each desired item there must be the name of the item, category, the stores that have the item, maximum price and minimum price.
